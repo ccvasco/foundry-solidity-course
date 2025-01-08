@@ -1,0 +1,15 @@
+[submodule "merkle-airdrop/lib/openzeppelin-contracts"]
+	path = merkle-airdrop/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "merkle-airdrop/lib/forge-std"]
+	path = merkle-airdrop/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "merkle-airdrop/lib/murky"]
+	path = merkle-airdrop/lib/murky
+	url = https://github.com/dmfxyz/murky
+[submodule "merkle-airdrop/lib/foundry-devops"]
+	path = merkle-airdrop/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
+[submodule "delegate-call-f23/lib/forge-std"]
+	path = delegate-call-f23/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
